@@ -1,0 +1,28 @@
+#role, #role2, #role4{
+    margin-bottom: 20px;
+}
+#role3{
+    margin-bottom: 20px;
+    background-color: yellow;
+}
+#detail{
+    font-size: 18px;
+}
+#logo{
+    width:90px;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+    color: white;
+}
+#pink{
+    background-color: hotpink;
+    color: white;
+}
+#purple{
+    background-color: purple;
+    color: white;
+}
